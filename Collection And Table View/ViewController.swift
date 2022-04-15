@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Collection And Table View
-//
-//  Created by Abdulloh Murodilloyev on 25/03/22.
-//
 
 import UIKit
 

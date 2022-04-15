@@ -1,9 +1,4 @@
-//
-//  CategoryTVC.swift
-//  Collection And Table View
-//
-//  Created by Abdulloh Murodilloyev on 24/03/22.
-//
+
 
 import UIKit
 
@@ -63,7 +58,7 @@ extension CategoryTVC: UICollectionViewDelegate, UICollectionViewDataSource, UIC
         16
     }
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Int) -> CGFloat {
-        16
+        
     }
 }
 
